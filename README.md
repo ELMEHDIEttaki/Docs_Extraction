@@ -23,7 +23,7 @@ PR_Extraction/
 ├── image.png # Image used in README
 ├── README.md # Project documentation
 └── setup.sh # Shell script to set up the environment and run Main Script
-
+```
 ## Setup and Installation
 
 ### Prerequisites
