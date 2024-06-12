@@ -4,6 +4,7 @@
 This project involves extracting answers text based on the submitted question by user from PDF documents, processing it to generate paraphrased answers to queries, and ensuring relevance to the provided content. The project leverages various Python libraries such as PyPDF, LangChain, and HuggingFace Transformers.
 
 ## Project Structure
+```markdown
 PR_Extraction/
 │
 ├── data/
