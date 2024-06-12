@@ -18,7 +18,7 @@ source $VENV_DIR/bin/activate
 pip install --upgrade pip
 
 # Install the required packages
-pip install langchain-community pypdf sentence-transformers chromadb requests sentencepiece torch
+pip install langchain-community pypdf sentence-transformers chromadb requests sentencepiece torch pysqlite3-binary
 
 echo "Setup is complete. The virtual environment is activated."
 
