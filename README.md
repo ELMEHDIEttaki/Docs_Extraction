@@ -36,13 +36,11 @@ To Run Locally:
    ```bash
    git clone https://github.com/ELMEHDIEttaki/Docs_Extraction.git
    cd PR_Extraction
+   bash setup.sh
 
 
 2. To Run on Virtual Environement like GoogleColab Please Work with NootBook file
-    Chose the ![Runtime Type On GoogleColab](image.png) like T4 GPU
-    Upload the test PDF file from data/Course_exercices - SABSQ3-Big Data Engineer 2021-BigSQL.pdf to GoogleColab Environment.
+    Chose the ![Runtime Type On GoogleColab](image.png)
 
-    Start Execution :)
-    
-
+    like T4 GPU Upload the test PDF file from data/Course_exercices - SABSQ3-Big Data Engineer 2021-BigSQL.pdf to GoogleColab Environment.
     
