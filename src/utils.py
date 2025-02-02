@@ -4,7 +4,7 @@ import torch
 import re as regex
 
 # Ensure your API key is correct
-api_key = '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'
+api_key = ''
 
 # Headers for Hugging Face API
 headers = {"Authorization": f"Bearer {api_key}"}
